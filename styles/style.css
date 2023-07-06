@@ -1,0 +1,44 @@
+/* 全局设置样式，字号大小和字体样式 */
+html{
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    background-color: #01031F;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #0955E7;
+    padding: 0px 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #e5e5e8;
+    text-shadow: 3px 3px 1px black;
+    font-size: 35px;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+
+/* p, li, h1{
+    color:red;
+    width: 500px;
+    border: 1px solid black;
+} */
+
